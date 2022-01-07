@@ -11,7 +11,7 @@ General Info
  
 
 How to Use
-============
- - Install the requirements using `pip isntall -r requirements.txt`
- - Clone the repo 
+==========
+ - Clone the repo and cd find-unused-import
+ - Install the requirements using `pip isntall -r requirements.txt` 
  - python find_unused_imports.py --name=your_filename
