@@ -12,6 +12,5 @@ General Info
 
 How to Use
 ==========
- - Clone the repo and cd find-unused-import
- - Install the requirements using `pip isntall -r requirements.txt` 
- - python find_unused_imports.py --name=your_filename
+ - Install the package using `sudo python setup.py install` and run
+ - find_unused_imports --name=your_filename_path
