@@ -13,4 +13,5 @@ General Info
 How to Use
 ============
  - Install the requirements using `pip isntall -r requirements.txt`
+ - Clone the repo 
  - python find_unused_imports.py --name=your_filename
