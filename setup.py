@@ -9,6 +9,7 @@ def read(fname):
 setup(
     name="find-unused-imports",
     author="Prince Roshan",
+    version='0.0.1',
     author_email="princekrroshan01@gmail.com",
     url="https://github.com/Agent-Hellboy/find-unused-import",
     description=(
